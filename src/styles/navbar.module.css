@@ -33,9 +33,9 @@
   max-width: 196px;
 }
 .navleft {
-  width: auto;
   display: flex;
   align-items: center;
+  width: 20%;
 }
 .navinput input {
   width: 100%;
