@@ -5,9 +5,8 @@ import { Navigation, Pagination, Mousewheel, Keyboard, FreeMode } from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import pc from "../assets/pc.png";
+
 import collect from "../assets/collect.png";
-import islemci from "../assets/islemci.png";
 import banner1 from "../assets/banner1.jpg";
 import banner2 from "../assets/banner2.jpg";
 import banner3 from "../assets/banner3.jpg";
