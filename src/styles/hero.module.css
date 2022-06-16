@@ -46,7 +46,7 @@
   color: #333333;
   padding: 11px 10px 10px 15px;
 }
-.leftMenu li:hover span {
+.leftMenu li span:hover {
   color: orange;
 }
 .leftMenu li:hover {

@@ -1,20 +1,19 @@
 import "./App.css";
-<<<<<<< HEAD
-import Navbar from "./components/Navbar";
 import HomePage from "./screens/HomePage";
-=======
-import HomePage from "./components/HomePage";
->>>>>>> 9d240ec097c7ebaf8ff6b0de858a6e2af16130da
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import LoginPage from "./screens/LoginPage";
+import Products from "./screens/Products";
 
 function App() {
   return (
-    <div className="App">
-<<<<<<< HEAD
-      <HomePage />
-=======
-        <HomePage/>
->>>>>>> 9d240ec097c7ebaf8ff6b0de858a6e2af16130da
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/products" element={<Products />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

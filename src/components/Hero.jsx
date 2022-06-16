@@ -17,63 +17,15 @@ import sbanner3 from "../assets/sbanner3.jpg";
 import collectbanner from "../assets/collectbanner.jpg";
 import hazisrsistmlerbanner from "../assets/hazirsistemlerbanner.jpg";
 import { BsChevronLeft } from "react-icons/bs";
-import dummyData from "../dummyData";
+
+import Sidebar from "./Sidebar";
 
 const Hero = () => {
-  const [side, setSide] = useState(true);
-  const handleSide = () => {
-    setSide(!side);
-  };
   return (
     <div className={styles.herocontainer}>
       <div className={styles.sidebar}>
         <div className={styles.leftMenu}>
-          <ul>
-            {dummyData.map((p, index) => {
-              return (
-                <li key={index}>
-                  <a href="javascript:;" onClick={handleSide}>
-                    <span className={styles.icon}>
-                      <img src={p.image} alt="" />
-                    </span>
-                    <span className={styles.text}>{p.name}</span>
-                  </a>
-                  <div className={side ? styles.sub : styles.disapp}>
-                    <a
-                      href="javascript:;"
-                      className={styles.back}
-                      onClick={handleSide}
-                    >
-                      <BsChevronLeft className={styles.leftarrow} />
-                      <span>bilgisayar parçaları</span>
-                    </a>
-                    <ul>
-                      {p.submenu.map((a) => {
-                        return (
-                          <>
-                            <li>
-                              <a href="">
-                                <span className={styles.icon}>
-                                  <img src={a.subimage} alt="" />
-                                </span>
-
-                                <span
-                                  style={{ textTransform: "capitalize" }}
-                                  className={`${styles.text} txt`}
-                                >
-                                  {a.subname}
-                                </span>
-                              </a>
-                            </li>
-                          </>
-                        );
-                      })}
-                    </ul>
-                  </div>
-                </li>
-              );
-            })}
-          </ul>
+          <Sidebar />
         </div>
         <a className={styles.collectcomputer}>
           <span>

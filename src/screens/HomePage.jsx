@@ -1,20 +1,19 @@
 import React from "react";
-<<<<<<< HEAD
+import CustomerInfo from "../components/CustomerInfo";
+import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
+import Sections from "../components/Sections";
 const HomePage = () => {
   return (
     <>
       <Navbar />
       <Hero />
+      <Sections />
+      <CustomerInfo />
+      <Footer />
     </>
   );
-=======
-import Navbar from "../components/Navbar.jsx"
-
-const HomePage = () => {
-  return  <Navbar />;
->>>>>>> 9d240ec097c7ebaf8ff6b0de858a6e2af16130da
 };
 
 export default HomePage;

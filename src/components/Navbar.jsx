@@ -5,6 +5,8 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { HiOutlineUserCircle } from "react-icons/hi";
 import { FaShoppingCart } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   return (
     <div className={styles.nav}>
@@ -42,7 +44,7 @@ const Navbar = () => {
       </div>
       <div className={styles.navright}>
         <div className={styles.logincontainer}>
-          <a href="">
+          <Link to="/login">
             <div className={styles.ppicon}>
               <HiOutlineUserCircle />
             </div>
@@ -50,7 +52,7 @@ const Navbar = () => {
               <p>merhaba,</p>
               <span>giriş yapın</span>
             </div>
-          </a>
+          </Link>
         </div>
         <div className={styles.cartcontainer}>
           <a href="">

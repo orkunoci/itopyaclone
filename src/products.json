@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "category": "hazır sistemler",
+
+    "prodmenu": [
+      {
+        "id": "1",
+        "name": "JAHO-PRO/AMD Ryzen 5 PRO 4650G/PNY GeForce RTX 3060 XLR8 Gaming REVEL EPIC-X RGB 12GB/16GB DDR4/500GB NVMe M.2 SSD/Geforce RTX RayTracing PC",
+        "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/itopya-u-a5f1b0.png"
+      },
+      {
+        "id": "2",
+        "name": "BBL-Turko/Intel Core i3 10105F/ASUS Radeon RX 6500 XT OC DUAL 4GB/16GB DDR4/480GB SSD/GAMING BILGISAYAR",
+        "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/itopya-u-a5f1b0.png"
+      },
+      {
+        "id": "3",
+        "name": "AZUNYAN-MEGA/Intel Core i5 11600K/PNY GeForce RTX 3080 Ti XLR8 Gaming REVEL EPIC-X RGB 12GB/16GB DDR4/1TB M.2 SSD/Geforce RTX RayTracing PC",
+        "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/itopya-u-a5f1b0.png"
+      },
+      {
+        "id": "4",
+        "name": "WTCN-CARRY/Intel Core i3 10105F/ASUS TUF GAMING GeForce GTX 1660 Ti EVO OC 6GB/16GB DDR4/500GB NVMe M.2 SSD/Geforce Espor PC",
+        "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/itopya-u-a5f1b0.png"
+      },
+      {
+        "id": "5",
+        "name": "JROKEZ-PRO/Intel Core i5 11400F/ASUS Radeon RX 6600 DUAL 8GB/16GB DDR4/500GB NVMe M.2 SSD/GAMING BILGISAYAR",
+        "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/itopya-u-a5f1b0.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "category": "Ekran Kartı",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/pburunkarti-da6837.jpg",
+    "prodmenu": [
+      {
+        "id": "1",
+        "name": "GIGABYTE GeForce RTX 2060 D6 6GB GDDR6 192 Bit Ekran Kartı",
+        "image": "https://img-itopya.mncdn.com/cdn/250/gigabyte-geforce-rtx-2060-d6-6gb-gddr6-192-bit-ekran-karti-55-546f4b.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/gigabyte-5e1a46.jpg"
+      },
+      {
+        "id": "2",
+        "name": "ASUS ROG STRIX Radeon RX 6600 XT OC 8GB GDDR6 128 Bit Ekran Kartı",
+        "image": "https://img-itopya.mncdn.com/cdn/250/yeni-proje-2022-03-02t113939253-f9d0bf.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/asus-40aaa5.jpg"
+      },
+      {
+        "id": "3",
+        "name": "PNY GeForce RTX 3060 XLR8 Gaming REVEL EPIC-X RGB 12GB GDDR6 192 Bit Ekran Kartı",
+        "image": "https://img-itopya.mncdn.com/cdn/250/yeni-proje-2022-04-06t093037122-17a041.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/pny-u-4cbf03.png"
+      },
+      {
+        "id": "4",
+        "name": "GIGABYTE GeForce RTX 3080 VISION OC 10GB GDDR6X 320 Bit LHR Ekran Kartı",
+        "image": "https://img-itopya.mncdn.com/cdn/250/gigabyte-geforce-rtx-3080-vision-oc-10gb-gddr6x-320-bit-ekran-karti-35ac2c.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/gigabyte-5e1a46.jpg"
+      },
+      {
+        "id": "5",
+        "name": "PNY GeForce RTX 3080 Ti XLR8 Gaming REVEL EPIC-X RGB 12GB GDDR6X 384 Bit Ekran Kartı",
+        "image": "https://img-itopya.mncdn.com/cdn/250/yeni-proje-2022-04-06t090839455-add5a7.jpg",
+        "brandimg": "https://img-itopya.mncdn.com/cdn/1000/pny-u-4cbf03.png"
+      }
+    ]
+  }
+]
