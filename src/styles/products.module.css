@@ -1,0 +1,125 @@
+.productspagecontainer {
+  max-width: 2000px;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+.cont {
+  display: flex;
+  flex-wrap: wrap;
+}
+.productssidebar {
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+.productscontainer {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.accordion {
+  padding: 0 0 30px 0;
+  box-sizing: border-box;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.cardheader {
+  position: relative;
+  font-size: 12px;
+  font-weight: 800;
+  color: #000;
+  background-color: transparent;
+  margin-bottom: 0;
+  padding: 20px 0 20px 5px;
+  text-decoration: none;
+}
+.cardheader::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-right-width: 0;
+  border-left: 4px solid #7f7f7f;
+  border-bottom: 4px solid transparent;
+  border-top: 6px solid transparent;
+}
+
+.label {
+  padding-left: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.collapse {
+  padding-bottom: 20px;
+  visibility: visible;
+  max-height: 100%;
+  transition: all 0.3s;
+}
+input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+.close {
+  visibility: hidden;
+  max-height: 0;
+  transition: all 0.3s;
+}
+@media only screen and (max-width: 1660px) {
+}
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 576px) {
+}
+
+@media only screen and (min-width: 576px) {
+  .productssidebar {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .productscontainer {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .productssidebar {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .productscontainer {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .productssidebar {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .productscontainer {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .productssidebar {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .productscontainer {
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+}

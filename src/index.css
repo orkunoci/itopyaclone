@@ -1,0 +1,94 @@
+.heroslider,
+.heroslider > .swiper-wrapper,
+.heroslider > .swiper-wrapper > .swiper-slide,
+.heroslider > .swiper-wrapper > .swiper-slide > img {
+  height: 100% !important;
+  width: 100% !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  color: white !important;
+}
+.heroslider .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background: #242496 !important;
+}
+.rightSlider .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: orange !important;
+}
+.swiper-pagination-bullet {
+  background: #fff !important;
+  opacity: 1 !important;
+}
+.rightSlider > .swiper-wrapper > .swiper-slide > img {
+  width: 100% !important;
+}
+
+.mySwiper.sectionswiper > .swiper-wrapper {
+  justify-content: space-between;
+}
+
+.mySwiper.sectionswiper > .swiper-slide {
+  flex: 0 0 20% !important;
+  width: 20% !important ;
+}
+
+.imgcnt {
+  width: 100%;
+  overflow: hidden;
+}
+.imgcnt img {
+  width: 100%;
+  height: 100%;
+}
+.imgcnt a {
+  padding: 20px;
+}
+
+.sectionswiper .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: orange !important;
+}
+.sectionswiper .swiper-slide:hover .imgcnt {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+.sectionswiper .swiper-slide:hover #secname {
+  color: orange;
+}
+@media only screen and (min-width: 1200px) {
+  .mySwiper.sectionswiper > .swiper-pagination-bullet {
+    display: none;
+  }
+}
+@media only screen and (max-width: 990px) {
+  .mySwiper.sectionswiper > .swiper-pagination-bullet {
+    bottom: 20px !important;
+  }
+
+  .mySwiper.sectionswiper {
+    height: 100%;
+  }
+  .sectionswiper .swiper-pagination-bullet {
+    width: 16px !important;
+    height: 16px !important;
+  }
+  .mySwiper.sectionswiper .swiper-slide {
+    flex: 0 0 50% !important;
+    width: 50% !important ;
+  }
+  .sectionswiper .swiper-pagination-bullet {
+    background-color: #f4f4f4;
+    box-shadow: 0 0 2px rgb(0 0 0 / 40%);
+  }
+}
+@media only screen and (max-width: 768px) {
+  .mySwiper.sectionswiper .swiper-slide {
+    flex: 0 0 33.33333% !important;
+    width: 33.33333% !important ;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .mySwiper.sectionswiper .swiper-slide {
+    flex: 0 0 100% !important;
+    width: 100% !important ;
+  }
+}

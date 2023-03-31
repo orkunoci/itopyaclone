@@ -1,0 +1,253 @@
+[
+  {
+    "id": "1",
+    "name": "bilgisayar parçaları",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/bilgisayar-parcalari-e025eb.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "işlemci",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/cpu-c81b24.png"
+      },
+      {
+        "id": "2",
+        "subname": "anakart",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/anakart-0d742d.png"
+      },
+      {
+        "id": "3",
+        "subname": "ram",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ram-bellek-0972e1.png"
+      },
+      {
+        "id": "4",
+        "subname": "ekrankarti",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/bilgisayar-parcalari-086a47.png"
+      },
+      {
+        "id": "5",
+        "subname": "bilgisayar kasaları",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/bilgisayarlar-06b880.png"
+      },
+      {
+        "id": "6",
+        "subname": "psu",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/psu-493f4a.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "bilgisayar",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/bilgisayarlar-9914f7.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "hazir sistemler",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/cpu-c81b24.png"
+      },
+      {
+        "id": "2",
+        "subname": "notebook",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/anakart-0d742d.png"
+      },
+      {
+        "id": "3",
+        "subname": "masaüstü bilgisayarlar",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ram-bellek-0972e1.png"
+      },
+      {
+        "id": "4",
+        "subname": "tablet",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/bilgisayar-parcalari-086a47.png"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "çevre birimleri",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/cevre-birimleri-da87f9.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "monitör",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/cevre-birimleri-437733.png"
+      },
+      {
+        "id": "2",
+        "subname": "klavye",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/anakart-0d742d.png"
+      },
+      {
+        "id": "3",
+        "subname": "mouse",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/mouse-df668a.png"
+      },
+      {
+        "id": "5",
+        "subname": "kulaklık",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/kulaklik-be6094.png"
+      },
+      {
+        "id": "6",
+        "subname": "mouse pad",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/mouse-pad-50315a.png"
+      },
+      {
+        "id": "7",
+        "subname": "ses sistemi",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ses-sistemi-327a48.png"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "depolama",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/depolama-e9c53f.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "ssd",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/depolama-f5ba0a.png"
+      },
+      {
+        "id": "2",
+        "subname": "harici disk",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/harici-depolama-31390d.png"
+      },
+      {
+        "id": "3",
+        "subname": "sabit disk",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/sabit-disk-db3403.png"
+      },
+      {
+        "id": "4",
+        "subname": "usb bellek",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/usb-bellek-9b5822.png"
+      },
+      {
+        "id": "5",
+        "subname": "flash bellek",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/flash-kart-c1e955.png"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "network",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/network-a45057.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "modem",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/network-3a186c.png"
+      },
+      {
+        "id": "2",
+        "subname": "router",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/router-bb63e3.png"
+      },
+      {
+        "id": "3",
+        "subname": "4G/5G Router",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/router-553a27.png"
+      },
+      {
+        "id": "5",
+        "subname": "ağ genişleticiler",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ag-genisletici-2ec591.png"
+      },
+      {
+        "id": "6",
+        "subname": "mesh",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/mesh-6f0824.png"
+      },
+      {
+        "id": "7",
+        "subname": "ip kamera",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ip-camera-1e508e.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "ofis ürünleri",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/Ofis%20Urunleri.png128647a2-1dee-4811-b554-2e1d9f9ffa9b.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "yazıcı",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/Printer.pngdee67790-df35-4c02-bf1b-c9550e7caea1.png"
+      },
+      {
+        "id": "2",
+        "subname": "sarf malzemeleri",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/Sarf%20Malzemeleri.png3a4415bb-eb4c-4252-ac8f-957a5c7c1dc0.png"
+      },
+      {
+        "id": "3",
+        "subname": "projeksiyon",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ram-bellek-0972e1.png"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "yazılım",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/yazilim-0e51b1.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "işletim sistemi",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/isletim-sistemi-392739.png"
+      },
+      {
+        "id": "2",
+        "subname": "güvenlik yazılımı",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/guvenlik-yazilimi-026c97.png"
+      },
+      {
+        "id": "3",
+        "subname": "ofis yazılımı",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/ofis-yazilimi-df691a.png"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "askesuar",
+    "image": "https://img-itopya.mncdn.com/cdn/1000/aksesuar-d6832b.png",
+    "submenu": [
+      {
+        "id": "1",
+        "subname": "bilgisayar aksesuarları",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/bilgisayar-aksesuarlari-1c65d5.png"
+      },
+      {
+        "id": "2",
+        "subname": "notebook aksesuarları",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/notebook-aksesuar-5fa221.png"
+      },
+      {
+        "id": "3",
+        "subname": "kablolar",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/kablo-sata-938d76.png"
+      },
+      {
+        "id": "4",
+        "subname": "piller ve şarjlar",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/pil-ve-sarj-c3a953.png"
+      },
+      {
+        "id": "5",
+        "subname": "çantalar",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/cantalar-a91b4e.png"
+      },
+      {
+        "id": "6",
+        "subname": "telefon aksesuarları",
+        "subimage": "https://img-itopya.mncdn.com/cdn/1000/telefon-aksesuarlari-7ed42b.png"
+      }
+    ]
+  }
+]
